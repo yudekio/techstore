@@ -9,4 +9,3 @@ Stack:
 - React Icons
 - Material UI
 - MongoDB
-- bcryptjs
